@@ -1,0 +1,6 @@
+C:\projects\Sandbox\DD\ThreadTests\ThreadTests\bin\Debug\ThreadTests.exe.config
+C:\projects\Sandbox\DD\ThreadTests\ThreadTests\bin\Debug\ThreadTests.exe
+C:\projects\Sandbox\DD\ThreadTests\ThreadTests\bin\Debug\ThreadTests.pdb
+C:\projects\Sandbox\DD\ThreadTests\ThreadTests\obj\Debug\ThreadTests.csprojResolveAssemblyReference.cache
+C:\projects\Sandbox\DD\ThreadTests\ThreadTests\obj\Debug\ThreadTests.exe
+C:\projects\Sandbox\DD\ThreadTests\ThreadTests\obj\Debug\ThreadTests.pdb
